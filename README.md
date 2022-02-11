@@ -1,2 +1,2 @@
-# Mini-Project-1
+# M1_Project_Game
 new repo
